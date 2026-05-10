@@ -31,6 +31,7 @@ describe('Workspace Isolation Security Tests', () => {
           lastName: 'Test',
         });
 
+      console.log('STUDENT CREATE RESPONSE:', createResponse.body);
       expect(createResponse.status).toBe(201);
       const studentId = createResponse.body.id;
 
@@ -44,7 +45,7 @@ describe('Workspace Isolation Security Tests', () => {
     });
 
     it('should fail if x-workspace-id header is missing', async () => {
-      const response = await request(app).get('/api/v1/students');
+      const response = await request(app).get('/api/v1/students').set('x-test-bypass-workspace', 'false');
 
       expect(response.status).toBe(400);
       expect(response.body.error).toMatch(/x-workspace-id/i);

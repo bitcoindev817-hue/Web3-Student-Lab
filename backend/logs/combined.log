@@ -244,3 +244,2281 @@ Please check your .env file and .env.example for guidance.
 
 Please copy .env.example to .env and fill in the required values.
 2026-05-04 16:43:38 info: Redis connected successfully
+2026-05-09 15:26:31 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:32 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:26:34 info: RSA Key rotated. New Key ID: 9775874b-5c39-4b59-9ca5-e41fbad8ba59
+2026-05-09 15:26:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:33 info: RSA Key rotated. New Key ID: 19dda84c-23c6-48f9-9011-be365a842cc8
+2026-05-09 15:26:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:33 info: RSA Key rotated. New Key ID: 59bfa5e2-5e2a-46fa-990b-2e31bc2651f4
+2026-05-09 15:26:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:33 info: RSA Key rotated. New Key ID: b2d0515c-a761-4376-abdb-9094c3f2a599
+2026-05-09 15:26:33 info: RSA Key rotated. New Key ID: c35dafbe-4c53-4fd1-ae62-9bbf5e516af1
+2026-05-09 15:26:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:33 info: RSA Key rotated. New Key ID: 9b34340c-9de6-4f5f-aa9a-ebec9d3a48d1
+2026-05-09 15:26:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:36 info: POST /api/v1/students
+2026-05-09 15:26:36 info: Redis connected successfully
+2026-05-09 15:26:35 info: RSA Key rotated. New Key ID: 553c53ed-fd2f-4821-94c5-0c21f0e235e7
+2026-05-09 15:26:36 info: Blockchain service initialized in simulation mode
+2026-05-09 15:26:36 info: GET /health
+2026-05-09 15:26:36 info: GET /health
+2026-05-09 15:26:36 info: GET /health
+2026-05-09 15:26:36 info: GET /health
+2026-05-09 15:26:36 info: GET /non-existent-route
+2026-05-09 15:26:36 info: GET /api/v1/students
+2026-05-09 15:26:36 info: POST /api/v1/students
+2026-05-09 15:26:36 info: PUT /api/v1/students/undefined
+2026-05-09 15:26:36 info: POST /api/v1/students
+2026-05-09 15:26:36 warn: Rate limit exceeded for rl:api:unauthenticated:::ffff:127.0.0.1
+2026-05-09 15:29:43 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:29:44 info: Certificate minted on-chain: cert-student--course-t-1778336984569 -> token 12345
+2026-05-09 15:29:44 info: Certificate minted on-chain: cert-student--course-t-1778336984985 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985009 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985071 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985088 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985132 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985158 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985177 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985199 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985218 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985249 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985274 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-t-1778336985312 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-i-1778336985507 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-i-1778336985532 -> token 12345
+2026-05-09 15:29:45 info: Certificate minted on-chain: cert-student--course-i-1778336985556 -> token 12345
+2026-05-09 15:29:44 info: RSA Key rotated. New Key ID: 9d99d870-5461-4b90-85c5-eed332dc2c16
+2026-05-09 15:29:45 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:45 info: POST /api/v1/students
+2026-05-09 15:29:44 info: RSA Key rotated. New Key ID: c48d08d8-8a6d-4415-8cdb-d0bb744362e1
+2026-05-09 15:29:44 info: RSA Key rotated. New Key ID: 3d7e9290-31e2-4f3f-b222-27facaffd0c0
+2026-05-09 15:29:45 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/students
+2026-05-09 15:29:46 info: POST /api/v1/students
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: PUT /api/v1/students/undefined
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:45 info: RSA Key rotated. New Key ID: bf7f20fe-0dca-4539-b274-b3ee229fdc1e
+2026-05-09 15:29:46 info: POST /api/v1/students
+2026-05-09 15:29:45 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:46 info: DELETE /api/v1/students/undefined
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:45 info: RSA Key rotated. New Key ID: fe57ff42-2f6a-4e48-969c-e28ed28faefe
+2026-05-09 15:29:46 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/students/undefined
+2026-05-09 15:29:46 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates/verify/batch
+2026-05-09 15:29:45 info: RSA Key rotated. New Key ID: 3c8e24ad-579b-48ce-90b3-2fe6668c1913
+2026-05-09 15:29:46 info: POST /api/v1/certificates/verify/batch
+2026-05-09 15:29:46 info: Redis connected successfully
+2026-05-09 15:29:46 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 15:29:46 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/certificates/analytics
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:46 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 15:29:46 info: GET /api/v1/certificates?limit=5
+2026-05-09 15:29:46 info: GET /api/v1/certificates?limit=200
+2026-05-09 15:29:46 info: GET /api/etc/passwd
+2026-05-09 15:29:46 info: POST /api/v1/certificates
+2026-05-09 15:29:45 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:46 info: RSA Key rotated. New Key ID: 0ddacffe-b927-4475-9464-8a089ed703e2
+2026-05-09 15:29:46 info: Blockchain service initialized in simulation mode
+2026-05-09 15:29:46 info: GET /health
+2026-05-09 15:29:46 info: GET /health
+2026-05-09 15:29:46 info: GET /health
+2026-05-09 15:29:46 info: GET /health
+2026-05-09 15:29:46 info: GET /non-existent-route
+2026-05-09 15:33:50 info: RSA Key rotated. New Key ID: 28ccf314-ef2f-4208-aa4f-7793c9569b03
+2026-05-09 15:33:50 info: Blockchain service initialized in simulation mode
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates/verify/batch
+2026-05-09 15:33:50 info: POST /api/v1/certificates/verify/batch
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 15:33:50 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:50 info: POST /api/v1/certificates
+2026-05-09 15:33:51 info: POST /api/v1/certificates
+2026-05-09 15:33:51 info: POST /api/v1/certificates
+2026-05-09 15:33:51 info: POST /api/v1/certificates
+2026-05-09 15:33:51 info: GET /api/v1/certificates/analytics
+2026-05-09 15:33:51 info: POST /api/v1/certificates
+2026-05-09 15:33:51 info: POST /api/v1/certificates
+2026-05-09 15:33:51 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 15:33:51 info: GET /api/v1/certificates?limit=5
+2026-05-09 15:33:51 info: GET /api/v1/certificates?limit=200
+2026-05-09 15:33:51 info: GET /api/etc/passwd
+2026-05-09 15:33:51 info: POST /api/v1/certificates
+2026-05-09 15:34:50 info: RSA Key rotated. New Key ID: e751cba8-0064-4c63-8217-46567e87821d
+2026-05-09 15:34:51 info: Blockchain service initialized in simulation mode
+2026-05-09 15:34:51 info: POST /api/v1/certificates
+2026-05-09 15:35:40 info: RSA Key rotated. New Key ID: d34e59fc-9be9-43cd-810d-5acd4012104b
+2026-05-09 15:35:41 info: Blockchain service initialized in simulation mode
+2026-05-09 15:35:41 info: POST /api/v1/certificates
+2026-05-09 15:38:07 info: RSA Key rotated. New Key ID: efedb010-039d-454a-bcf6-167b50eb8ab2
+2026-05-09 15:38:07 info: Blockchain service initialized in simulation mode
+2026-05-09 15:38:07 info: POST /api/v1/students
+2026-05-09 15:38:48 info: RSA Key rotated. New Key ID: 01fe5efa-8c87-4081-8265-5454804922b5
+2026-05-09 15:38:49 info: Blockchain service initialized in simulation mode
+2026-05-09 15:38:49 info: POST /api/v1/students
+2026-05-09 15:43:14 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:16 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 15:43:18 info: Certificate minted on-chain: cert-student--course-t-1778337797197 -> token 12345
+2026-05-09 15:43:19 info: Certificate minted on-chain: cert-student--course-t-1778337799837 -> token 12345
+2026-05-09 15:43:20 info: Certificate minted on-chain: cert-student--course-t-1778337800239 -> token 12345
+2026-05-09 15:43:20 info: Certificate minted on-chain: cert-student--course-t-1778337800856 -> token 12345
+2026-05-09 15:43:21 info: Certificate minted on-chain: cert-student--course-t-1778337801017 -> token 12345
+2026-05-09 15:43:21 info: Certificate minted on-chain: cert-student--course-t-1778337801478 -> token 12345
+2026-05-09 15:43:21 info: Certificate minted on-chain: cert-student--course-t-1778337801700 -> token 12345
+2026-05-09 15:43:21 info: Certificate minted on-chain: cert-student--course-t-1778337801905 -> token 12345
+2026-05-09 15:43:22 info: Certificate minted on-chain: cert-student--course-t-1778337802013 -> token 12345
+2026-05-09 15:43:22 info: Certificate minted on-chain: cert-student--course-t-1778337802145 -> token 12345
+2026-05-09 15:43:22 info: Certificate minted on-chain: cert-student--course-t-1778337802336 -> token 12345
+2026-05-09 15:43:22 info: Certificate minted on-chain: cert-student--course-t-1778337802585 -> token 12345
+2026-05-09 15:43:22 info: Certificate minted on-chain: cert-student--course-t-1778337802811 -> token 12345
+2026-05-09 15:43:23 info: Certificate minted on-chain: cert-student--course-i-1778337803228 -> token 12345
+2026-05-09 15:43:23 info: Certificate minted on-chain: cert-student--course-i-1778337803499 -> token 12345
+2026-05-09 15:43:23 info: Certificate minted on-chain: cert-student--course-i-1778337803651 -> token 12345
+2026-05-09 15:43:20 info: RSA Key rotated. New Key ID: 4f4db392-035a-49b2-bc3b-acb3542be8b3
+2026-05-09 15:43:26 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:29 info: POST /api/v1/students
+2026-05-09 15:43:20 info: RSA Key rotated. New Key ID: 7e31bc02-9f82-4dff-a6c3-658e20bf659b
+2026-05-09 15:43:30 info: GET /api/v1/students/cmoygezy60000ec5yyzwqnx1i
+2026-05-09 15:43:27 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:30 info: GET /api/v1/students
+2026-05-09 15:43:30 info: POST /api/v1/students
+2026-05-09 15:43:30 info: PUT /api/v1/students/cmoygf0d90001ec5yf6uspuj7
+2026-05-09 15:43:31 info: POST /api/v1/certificates
+2026-05-09 15:43:31 info: POST /api/v1/certificates
+2026-05-09 15:43:31 info: Redis connected successfully
+2026-05-09 15:43:31 info: POST /api/v1/certificates
+2026-05-09 15:43:31 info: POST /api/v1/certificates
+2026-05-09 15:43:31 info: POST /api/v1/certificates
+2026-05-09 15:43:22 info: RSA Key rotated. New Key ID: 81481518-fd3f-4a81-b722-165bb69f547b
+2026-05-09 15:43:31 info: POST /api/v1/certificates
+2026-05-09 15:43:19 info: RSA Key rotated. New Key ID: 7f1f3506-f6ac-4100-b776-ae0ad177ad69
+2026-05-09 15:43:26 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:32 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 15:43:32 info: POST /api/v1/certificates
+2026-05-09 15:43:32 info: POST /api/v1/certificates
+2026-05-09 15:43:29 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:33 info: POST /api/v1/certificates/verify/batch
+2026-05-09 15:43:33 info: POST /api/v1/certificates/verify/batch
+2026-05-09 15:43:33 info: POST /api/v1/certificates
+2026-05-09 15:43:24 info: RSA Key rotated. New Key ID: 37a7b886-5460-47e3-ba30-4d51cc004ec1
+2026-05-09 15:43:33 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 15:43:29 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:33 info: POST /api/v1/certificates
+2026-05-09 15:43:33 info: POST /api/v1/certificates
+2026-05-09 15:43:33 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 15:43:33 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 15:43:34 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: GET /api/v1/certificates/analytics
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:34 info: POST /api/v1/certificates
+2026-05-09 15:43:25 info: RSA Key rotated. New Key ID: 1094ae85-bcc5-40f3-8a9d-383d4641271f
+2026-05-09 15:43:32 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:34 info: POST /api/v1/students
+2026-05-09 15:43:34 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 15:43:34 info: DELETE /api/v1/students/cmoygf3ts0002ec5y1ju4yogv
+2026-05-09 15:43:34 info: GET /api/v1/certificates?limit=5
+2026-05-09 15:43:34 info: GET /api/v1/certificates?limit=200
+2026-05-09 15:43:34 info: GET /api/v1/students/cmoygf3ts0002ec5y1ju4yogv
+2026-05-09 15:43:35 info: GET /api/etc/passwd
+2026-05-09 15:43:35 info: POST /api/v1/certificates
+2026-05-09 15:43:30 info: RSA Key rotated. New Key ID: a4053929-df78-4996-ad42-5215a741544c
+2026-05-09 15:43:35 info: Blockchain service initialized in simulation mode
+2026-05-09 15:43:36 info: GET /health
+2026-05-09 15:43:36 info: GET /health
+2026-05-09 15:43:36 info: GET /health
+2026-05-09 15:43:36 info: GET /health
+2026-05-09 15:43:36 info: GET /non-existent-route
+2026-05-09 16:11:52 info: ✅ Environment variables validated successfully
+2026-05-09 16:11:52 info: 🌍 Environment: development
+2026-05-09 16:11:52 info: 🔌 Port: 8080
+2026-05-09 16:11:52 info: 🌐 Stellar Network: testnet
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:11:52 info: ✅ Environment variables validated successfully
+2026-05-09 16:11:52 info: 🌍 Environment: production
+2026-05-09 16:11:52 info: 🔌 Port: 8080
+2026-05-09 16:11:52 info: 🌐 Stellar Network: testnet
+2026-05-09 16:11:52 info: ✅ Environment variables validated successfully
+2026-05-09 16:11:52 info: 🌍 Environment: development
+2026-05-09 16:11:52 info: 🔌 Port: 8080
+2026-05-09 16:11:52 info: 🌐 Stellar Network: testnet
+2026-05-09 16:11:52 info: ✅ Environment variables validated successfully
+2026-05-09 16:11:52 info: 🌍 Environment: development
+2026-05-09 16:11:52 info: 🔌 Port: 3000
+2026-05-09 16:11:52 info: 🌐 Stellar Network: mainnet
+2026-05-09 16:11:52 info: Certificate minted on-chain: cert-student--course-t-1778339512747 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513081 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513125 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513198 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513224 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513323 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513388 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513408 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513432 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513457 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513490 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513509 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-t-1778339513551 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-i-1778339513675 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-i-1778339513703 -> token 12345
+2026-05-09 16:11:53 info: Certificate minted on-chain: cert-student--course-i-1778339513721 -> token 12345
+2026-05-09 16:11:53 info: RSA Key rotated. New Key ID: b478e124-8184-4658-af86-8be807371198
+2026-05-09 16:11:53 info: RSA Key rotated. New Key ID: 4f2dd1c6-8058-4b8a-822d-cd4d3456a5a1
+2026-05-09 16:11:54 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:54 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:53 info: RSA Key rotated. New Key ID: 9b8c5b23-a0d4-4b4c-93ad-b84cc54e357b
+2026-05-09 16:11:53 info: RSA Key rotated. New Key ID: f67f5aff-d2fd-405a-b370-5073294cc3b8
+2026-05-09 16:11:54 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:55 info: Redis connected successfully
+2026-05-09 16:11:54 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:53 info: RSA Key rotated. New Key ID: 90692b09-6ac2-4286-aed2-7e2b6a6f8e0b
+2026-05-09 16:11:55 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 16:11:54 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:11:55 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 16:11:55 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:53 info: RSA Key rotated. New Key ID: 8c56ff91-d204-4705-8dfe-ca2a6c440785
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:54 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: GET /api/v1/certificates/analytics
+2026-05-09 16:11:55 info: POST /api/v1/students
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 16:11:55 info: GET /api/v1/certificates?limit=5
+2026-05-09 16:11:55 info: GET /api/v1/certificates?limit=200
+2026-05-09 16:11:55 info: GET /api/etc/passwd
+2026-05-09 16:11:55 info: POST /api/v1/certificates
+2026-05-09 16:11:55 info: GET /api/v1/students/cmoyhfk080000ecy5leutnzfp
+2026-05-09 16:11:55 info: GET /api/v1/students
+2026-05-09 16:11:55 info: POST /api/v1/students
+2026-05-09 16:11:55 info: PUT /api/v1/students/cmoyhfk1e0001ecy5k2ok81ht
+2026-05-09 16:11:54 info: RSA Key rotated. New Key ID: 4323785f-4300-4155-bd53-22020528ce5e
+2026-05-09 16:11:55 info: Blockchain service initialized in simulation mode
+2026-05-09 16:11:55 info: GET /health
+2026-05-09 16:11:55 info: GET /health
+2026-05-09 16:11:55 info: GET /health
+2026-05-09 16:11:55 info: GET /health
+2026-05-09 16:11:55 info: GET /non-existent-route
+2026-05-09 16:11:55 info: POST /api/v1/students
+2026-05-09 16:11:55 info: DELETE /api/v1/students/cmoyhfk7r0002ecy52pifwjdt
+2026-05-09 16:11:55 info: GET /api/v1/students/cmoyhfk7r0002ecy52pifwjdt
+2026-05-09 16:17:07 info: Certificate minted on-chain: cert-student--course-t-1778339827373 -> token 12345
+2026-05-09 16:17:07 info: Certificate minted on-chain: cert-student--course-t-1778339827739 -> token 12345
+2026-05-09 16:17:07 info: Certificate minted on-chain: cert-student--course-t-1778339827806 -> token 12345
+2026-05-09 16:17:07 info: Certificate minted on-chain: cert-student--course-t-1778339827855 -> token 12345
+2026-05-09 16:17:07 info: Certificate minted on-chain: cert-student--course-t-1778339827878 -> token 12345
+2026-05-09 16:17:07 info: Certificate minted on-chain: cert-student--course-t-1778339827933 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339827988 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339828015 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339828042 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339828064 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339828099 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339828118 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-t-1778339828171 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-i-1778339828233 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-i-1778339828263 -> token 12345
+2026-05-09 16:17:08 info: Certificate minted on-chain: cert-student--course-i-1778339828296 -> token 12345
+2026-05-09 16:17:08 info: ✅ Environment variables validated successfully
+2026-05-09 16:17:08 info: 🌍 Environment: development
+2026-05-09 16:17:08 info: 🔌 Port: 8080
+2026-05-09 16:17:08 info: 🌐 Stellar Network: testnet
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:17:08 info: ✅ Environment variables validated successfully
+2026-05-09 16:17:08 info: 🌍 Environment: production
+2026-05-09 16:17:08 info: 🔌 Port: 8080
+2026-05-09 16:17:08 info: 🌐 Stellar Network: testnet
+2026-05-09 16:17:08 info: ✅ Environment variables validated successfully
+2026-05-09 16:17:08 info: 🌍 Environment: development
+2026-05-09 16:17:08 info: 🔌 Port: 8080
+2026-05-09 16:17:08 info: 🌐 Stellar Network: testnet
+2026-05-09 16:17:08 info: ✅ Environment variables validated successfully
+2026-05-09 16:17:08 info: 🌍 Environment: development
+2026-05-09 16:17:08 info: 🔌 Port: 3000
+2026-05-09 16:17:08 info: 🌐 Stellar Network: mainnet
+2026-05-09 16:17:09 info: Redis connected successfully
+2026-05-09 16:17:07 info: RSA Key rotated. New Key ID: 73a98c07-b087-498a-ab14-8da3464a529d
+2026-05-09 16:17:08 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:07 info: RSA Key rotated. New Key ID: 27f63326-8e8f-4ba3-9251-3597b5292362
+2026-05-09 16:17:07 info: RSA Key rotated. New Key ID: 29f774a8-0a05-4a39-867a-80b75668af15
+2026-05-09 16:17:08 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:08 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:07 info: RSA Key rotated. New Key ID: e7cbc6b2-bb1c-4c6f-aafc-aff9cd29ed92
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:07 info: RSA Key rotated. New Key ID: e3fe1876-0aa2-4cfa-8699-e5177e2c0661
+2026-05-09 16:17:08 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:08 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:08 info: RSA Key rotated. New Key ID: d476a106-fbf8-4b85-a7ba-283d9a09d5c5
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID non-existent-student not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:09 info: POST /api/v1/students
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:17:09 info: GET /api/v1/students/cmoyhmagu0000eclegl95ng9z
+2026-05-09 16:17:09 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: GET /api/v1/students
+2026-05-09 16:17:09 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 16:17:09 info: POST /api/v1/students
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: PUT /api/v1/students/cmoyhmai10001ecle0n3qmvdb
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 16:17:09 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: GET /api/v1/certificates/analytics
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 16:17:09 info: GET /api/v1/certificates?limit=5
+2026-05-09 16:17:09 info: GET /api/v1/certificates?limit=200
+2026-05-09 16:17:09 info: GET /api/etc/passwd
+2026-05-09 16:17:09 info: POST /api/v1/certificates
+2026-05-09 16:17:09 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:17:09 info: POST /api/v1/students
+2026-05-09 16:17:09 info: DELETE /api/v1/students/cmoyhmao30002ecle9b0r4eju
+2026-05-09 16:17:09 info: GET /api/v1/students/cmoyhmao30002ecle9b0r4eju
+2026-05-09 16:17:09 info: RSA Key rotated. New Key ID: 22bd5044-e06d-4af8-8a99-23ff2861d405
+2026-05-09 16:17:10 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:10 info: GET /health
+2026-05-09 16:17:10 info: GET /health
+2026-05-09 16:17:10 info: GET /health
+2026-05-09 16:17:10 info: GET /health
+2026-05-09 16:17:10 info: GET /non-existent-route
+2026-05-09 16:17:24 info: RSA Key rotated. New Key ID: 113f2e35-faf7-48b2-b54d-c8fe3aa5d1f1
+2026-05-09 16:17:25 info: Blockchain service initialized in simulation mode
+2026-05-09 16:17:25 info: POST /api/v1/certificates
+2026-05-09 16:17:25 error: Mint certificate error: Student with ID api-student-123 not found
+2026-05-09 16:18:00 info: Redis connected successfully
+2026-05-09 16:18:00 info: Certificate minted on-chain: cert-student--course-t-1778339880463 -> token 12345
+2026-05-09 16:18:00 info: Certificate minted on-chain: cert-student--course-t-1778339880898 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339880945 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881112 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881160 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881206 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881258 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881279 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881302 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881323 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881361 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881380 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-t-1778339881405 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-i-1778339881482 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-i-1778339881516 -> token 12345
+2026-05-09 16:18:01 info: Certificate minted on-chain: cert-student--course-i-1778339881553 -> token 12345
+2026-05-09 16:18:00 info: RSA Key rotated. New Key ID: cf84f60f-0fae-47c3-9942-5fe1375319ff
+2026-05-09 16:18:00 info: RSA Key rotated. New Key ID: af92120a-f0ae-4798-96b1-fe08746de2a8
+2026-05-09 16:18:01 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:01 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:00 info: RSA Key rotated. New Key ID: 4c7c000a-599c-4208-bb3b-bd29c6468d1f
+2026-05-09 16:18:01 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:00 info: RSA Key rotated. New Key ID: e2027047-677a-41fc-9f79-0db289f18ac9
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:01 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:02 info: POST /api/v1/students
+2026-05-09 16:18:02 info: GET /api/v1/students/cmoyhnf0v0000ecupyo7zeczj
+2026-05-09 16:18:00 info: RSA Key rotated. New Key ID: be467b9c-b2d4-4ffe-8175-312dab4d890c
+2026-05-09 16:18:01 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:02 info: GET /api/v1/students
+2026-05-09 16:18:02 info: POST /api/v1/students
+2026-05-09 16:18:02 info: PUT /api/v1/students/cmoyhnf3p0001ecupf6gxpjsf
+2026-05-09 16:18:00 info: RSA Key rotated. New Key ID: 9c4bc1dd-be5a-4426-82bd-43a2007d654f
+2026-05-09 16:18:02 info: ✅ Environment variables validated successfully
+2026-05-09 16:18:02 info: 🌍 Environment: development
+2026-05-09 16:18:02 info: 🔌 Port: 8080
+2026-05-09 16:18:02 info: 🌐 Stellar Network: testnet
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:18:02 info: ✅ Environment variables validated successfully
+2026-05-09 16:18:02 info: 🌍 Environment: production
+2026-05-09 16:18:02 info: 🔌 Port: 8080
+2026-05-09 16:18:02 info: 🌐 Stellar Network: testnet
+2026-05-09 16:18:02 info: ✅ Environment variables validated successfully
+2026-05-09 16:18:02 info: 🌍 Environment: development
+2026-05-09 16:18:02 info: 🔌 Port: 8080
+2026-05-09 16:18:02 info: 🌐 Stellar Network: testnet
+2026-05-09 16:18:02 info: ✅ Environment variables validated successfully
+2026-05-09 16:18:02 info: 🌍 Environment: development
+2026-05-09 16:18:02 info: 🔌 Port: 3000
+2026-05-09 16:18:02 info: 🌐 Stellar Network: mainnet
+2026-05-09 16:18:01 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:02 info: Simulated mint for token 458628
+2026-05-09 16:18:02 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339882130 -> token 458628
+2026-05-09 16:18:02 info: Certificate minted: cert-api-stud-api-cour-1778339882130
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 error: Mint certificate error: Student with ID non-existent-student not found
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 error: Mint certificate error: Course with ID non-existent-course not found
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 info: POST /api/v1/students
+2026-05-09 16:18:02 info: DELETE /api/v1/students/cmoyhnfbq0002ecupim5vpyiv
+2026-05-09 16:18:02 info: Simulated mint for token 84836
+2026-05-09 16:18:02 info: GET /api/v1/students/cmoyhnfbq0002ecupim5vpyiv
+2026-05-09 16:18:02 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339882496 -> token 84836
+2026-05-09 16:18:02 info: Certificate minted: cert-api-stud-api-cour-1778339882496
+2026-05-09 16:18:02 info: GET /api/v1/certificates/verify/84836
+2026-05-09 16:18:02 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 info: Simulated mint for token 785221
+2026-05-09 16:18:02 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339882636 -> token 785221
+2026-05-09 16:18:02 info: Certificate minted: cert-api-stud-api-cour-1778339882636
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:02 info: Simulated mint for token batch-token-2
+2026-05-09 16:18:02 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339882761 -> token batch-token-2
+2026-05-09 16:18:02 info: Certificate minted: cert-api-stud-api-cour-1778339882761
+2026-05-09 16:18:02 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:18:02 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:18:02 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:18:02 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 237131
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339882901 -> token 237131
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339882901
+2026-05-09 16:18:03 info: GET /api/v1/certificates/237131/metadata
+2026-05-09 16:18:03 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 334495
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883042 -> token 334495
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339883042
+2026-05-09 16:18:03 info: GET /api/v1/certificates/334495/metadata
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:02 info: RSA Key rotated. New Key ID: dbb4ae48-a314-4064-893f-10c1e7fd0c8b
+2026-05-09 16:18:03 info: Blockchain service initialized in simulation mode
+2026-05-09 16:18:03 info: GET /health
+2026-05-09 16:18:03 info: GET /health
+2026-05-09 16:18:03 info: GET /health
+2026-05-09 16:18:03 info: GET /health
+2026-05-09 16:18:03 info: GET /non-existent-route
+2026-05-09 16:18:03 info: Simulated mint for token 541360
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883167 -> token 541360
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339883167
+2026-05-09 16:18:03 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778339883167
+2026-05-09 16:18:03 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 779500
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883299 -> token 779500
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339883299
+2026-05-09 16:18:03 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 16:18:03 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 78522
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883451 -> token 78522
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339883451
+2026-05-09 16:18:03 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778339883451/revoke
+2026-05-09 16:18:03 info: Certificate revoked successfully
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 566540
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883606 -> token 566540
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339883606
+2026-05-09 16:18:03 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778339883606/revoke
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 104719
+2026-05-09 16:18:03 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883748 -> token 104719
+2026-05-09 16:18:03 info: Certificate minted: cert-api-stud-api-cour-1778339883748
+2026-05-09 16:18:03 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778339883748/revoke
+2026-05-09 16:18:03 info: POST /api/v1/certificates
+2026-05-09 16:18:03 info: Simulated mint for token 86550
+2026-05-09 16:18:04 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339883892 -> token 86550
+2026-05-09 16:18:04 info: Certificate minted: cert-api-stud-api-cour-1778339883892
+2026-05-09 16:18:04 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778339883892/reissue
+2026-05-09 16:18:04 error: Reissue error: 
+Invalid `prisma.certificate.create()` invocation in
+/home/knights/Documents/Drips Miantainer Project/Web3-Student-Lab/backend/src/certificates/CertificateService.ts:70:50
+
+  67 const tokenIdValue = tokenId || Math.floor(Math.random() * 1000000).toString();
+  68 
+  69 // Create certificate record before minting (so we have the ID for metadata)
+→ 70 const certificate = await prisma.certificate.create(
+Unique constraint failed on the fields: (`tokenId`)
+2026-05-09 16:18:04 info: POST /api/v1/certificates
+2026-05-09 16:18:04 info: Simulated mint for token 578637
+2026-05-09 16:18:04 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339884293 -> token 578637
+2026-05-09 16:18:04 info: Certificate minted: cert-api-stud-api-cour-1778339884293
+2026-05-09 16:18:04 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778339884293/reissue
+2026-05-09 16:18:04 error: Reissue error: 
+Invalid `prisma.certificate.create()` invocation in
+/home/knights/Documents/Drips Miantainer Project/Web3-Student-Lab/backend/src/certificates/CertificateService.ts:70:50
+
+  67 const tokenIdValue = tokenId || Math.floor(Math.random() * 1000000).toString();
+  68 
+  69 // Create certificate record before minting (so we have the ID for metadata)
+→ 70 const certificate = await prisma.certificate.create(
+Unique constraint failed on the fields: (`tokenId`)
+2026-05-09 16:18:04 info: POST /api/v1/certificates
+2026-05-09 16:18:04 info: Simulated mint for token 43711
+2026-05-09 16:18:04 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339884468 -> token 43711
+2026-05-09 16:18:04 info: Certificate minted: cert-api-stud-api-cour-1778339884468
+2026-05-09 16:18:04 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778339884468/reissue
+2026-05-09 16:18:04 info: POST /api/v1/certificates
+2026-05-09 16:18:04 info: Simulated mint for token 114149
+2026-05-09 16:18:04 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339884613 -> token 114149
+2026-05-09 16:18:04 info: Certificate minted: cert-api-stud-api-cour-1778339884613
+2026-05-09 16:18:04 info: POST /api/v1/certificates
+2026-05-09 16:18:04 info: Simulated mint for token 687843
+2026-05-09 16:18:05 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339884868 -> token 687843
+2026-05-09 16:18:05 info: Certificate minted: cert-api-stud-api-cour-1778339884868
+2026-05-09 16:18:05 info: GET /api/v1/certificates/analytics
+2026-05-09 16:18:05 info: POST /api/v1/certificates
+2026-05-09 16:18:05 info: Simulated mint for token 425361
+2026-05-09 16:18:05 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339885080 -> token 425361
+2026-05-09 16:18:05 info: Certificate minted: cert-api-stud-api-cour-1778339885080
+2026-05-09 16:18:05 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778339885080/image
+2026-05-09 16:18:05 info: POST /api/v1/certificates
+2026-05-09 16:18:05 info: Simulated mint for token 107106
+2026-05-09 16:18:05 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339885238 -> token 107106
+2026-05-09 16:18:05 info: Certificate minted: cert-api-stud-api-cour-1778339885238
+2026-05-09 16:18:05 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778339885238/qr
+2026-05-09 16:18:05 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 16:18:05 info: GET /api/v1/certificates?limit=5
+2026-05-09 16:18:05 info: GET /api/v1/certificates?limit=200
+2026-05-09 16:18:05 info: GET /api/etc/passwd
+2026-05-09 16:18:06 info: POST /api/v1/certificates
+2026-05-09 16:18:06 info: Simulated mint for token 477094
+2026-05-09 16:18:06 info: Certificate minted on-chain: cert-api-stud-api-cour-1778339886006 -> token 477094
+2026-05-09 16:18:06 info: Certificate minted: cert-api-stud-api-cour-1778339886006
+2026-05-09 16:18:06 info: GET /api/v1/certificates/verify/477094
+2026-05-09 16:48:13 info: Redis connected successfully
+2026-05-09 16:48:13 info: Certificate minted on-chain: cert-student--course-t-1778341693729 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694021 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694057 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694098 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694140 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694227 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694272 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694305 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694329 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694354 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694398 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694422 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-t-1778341694743 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-i-1778341694872 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-i-1778341694906 -> token 12345
+2026-05-09 16:48:14 info: Certificate minted on-chain: cert-student--course-i-1778341694924 -> token 12345
+2026-05-09 16:48:13 info: RSA Key rotated. New Key ID: 197fecca-a924-433d-8554-e061829c94b9
+2026-05-09 16:48:14 info: RSA Key rotated. New Key ID: 34523986-a80b-420e-a3a9-8a9151221f92
+2026-05-09 16:48:14 info: RSA Key rotated. New Key ID: 5f41b4dd-4f0a-475a-8552-e2b579a2c85f
+2026-05-09 16:48:15 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:13 info: RSA Key rotated. New Key ID: c10463db-8e2b-4e3e-896e-b09776f51221
+2026-05-09 16:48:14 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:13 info: RSA Key rotated. New Key ID: 99e05b10-c479-4c71-9497-55e55f9563c5
+2026-05-09 16:48:15 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:15 info: POST /api/v1/students
+2026-05-09 16:48:15 info: ✅ Environment variables validated successfully
+2026-05-09 16:48:14 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:15 info: 🌍 Environment: development
+2026-05-09 16:48:15 info: 🔌 Port: 8080
+2026-05-09 16:48:15 info: 🌐 Stellar Network: testnet
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 16:48:15 info: ✅ Environment variables validated successfully
+2026-05-09 16:48:15 info: 🌍 Environment: production
+2026-05-09 16:48:15 info: 🔌 Port: 8080
+2026-05-09 16:48:15 info: 🌐 Stellar Network: testnet
+2026-05-09 16:48:15 info: ✅ Environment variables validated successfully
+2026-05-09 16:48:15 info: 🌍 Environment: development
+2026-05-09 16:48:15 info: 🔌 Port: 8080
+2026-05-09 16:48:15 info: 🌐 Stellar Network: testnet
+2026-05-09 16:48:15 info: ✅ Environment variables validated successfully
+2026-05-09 16:48:15 info: 🌍 Environment: development
+2026-05-09 16:48:15 info: 🔌 Port: 3000
+2026-05-09 16:48:15 info: 🌐 Stellar Network: mainnet
+2026-05-09 16:48:14 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:15 info: GET /api/v1/students/cmoyiqah00000ec8eygupcfs4
+2026-05-09 16:48:14 info: RSA Key rotated. New Key ID: 9b260380-046f-451d-ab58-68a06a08297c
+2026-05-09 16:48:15 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:15 info: POST /api/v1/certificates
+2026-05-09 16:48:15 info: GET /api/v1/students
+2026-05-09 16:48:15 info: POST /api/v1/students
+2026-05-09 16:48:16 info: PUT /api/v1/students/cmoyiqak20001ec8ea8a79mx3
+2026-05-09 16:48:16 info: Simulated mint for token 152889
+2026-05-09 16:48:16 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341695959 -> token 152889
+2026-05-09 16:48:16 info: Certificate minted: cert-api-stud-api-cour-1778341695959
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 error: Mint certificate error: Student with ID non-existent-student not found
+2026-05-09 16:48:16 info: POST /api/v1/students
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 error: Mint certificate error: Course with ID non-existent-course not found
+2026-05-09 16:48:16 info: DELETE /api/v1/students/cmoyiqapq0002ec8e1xho0kpx
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 info: GET /api/v1/students/cmoyiqapq0002ec8e1xho0kpx
+2026-05-09 16:48:16 info: Simulated mint for token 80286
+2026-05-09 16:48:16 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341696207 -> token 80286
+2026-05-09 16:48:16 info: Certificate minted: cert-api-stud-api-cour-1778341696207
+2026-05-09 16:48:16 info: GET /api/v1/certificates/verify/80286
+2026-05-09 16:48:16 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 info: Simulated mint for token 234526
+2026-05-09 16:48:16 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341696362 -> token 234526
+2026-05-09 16:48:16 info: Certificate minted: cert-api-stud-api-cour-1778341696362
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:15 info: RSA Key rotated. New Key ID: de1408d5-03d9-4e1d-88e3-df282d1958b3
+2026-05-09 16:48:16 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:16 info: GET /health
+2026-05-09 16:48:16 info: GET /health
+2026-05-09 16:48:16 info: GET /health
+2026-05-09 16:48:16 info: GET /health
+2026-05-09 16:48:16 info: Simulated mint for token batch-token-2
+2026-05-09 16:48:16 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341696488 -> token batch-token-2
+2026-05-09 16:48:16 info: GET /non-existent-route
+2026-05-09 16:48:16 info: Certificate minted: cert-api-stud-api-cour-1778341696488
+2026-05-09 16:48:16 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:48:16 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:48:16 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 info: Simulated mint for token 770163
+2026-05-09 16:48:16 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341696639 -> token 770163
+2026-05-09 16:48:16 info: Certificate minted: cert-api-stud-api-cour-1778341696639
+2026-05-09 16:48:16 info: GET /api/v1/certificates/770163/metadata
+2026-05-09 16:48:16 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:16 info: Simulated mint for token 351133
+2026-05-09 16:48:16 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341696841 -> token 351133
+2026-05-09 16:48:16 info: Certificate minted: cert-api-stud-api-cour-1778341696841
+2026-05-09 16:48:16 info: GET /api/v1/certificates/351133/metadata
+2026-05-09 16:48:16 info: POST /api/v1/certificates
+2026-05-09 16:48:17 info: Simulated mint for token 798912
+2026-05-09 16:48:17 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341696982 -> token 798912
+2026-05-09 16:48:17 info: Certificate minted: cert-api-stud-api-cour-1778341696982
+2026-05-09 16:48:17 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778341696982
+2026-05-09 16:48:17 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 16:48:17 info: POST /api/v1/certificates
+2026-05-09 16:48:17 info: Simulated mint for token 356904
+2026-05-09 16:48:17 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341697158 -> token 356904
+2026-05-09 16:48:17 info: Certificate minted: cert-api-stud-api-cour-1778341697158
+2026-05-09 16:48:17 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 16:48:17 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 16:48:17 info: POST /api/v1/certificates
+2026-05-09 16:48:17 info: Simulated mint for token 593025
+2026-05-09 16:48:17 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341697336 -> token 593025
+2026-05-09 16:48:17 info: Certificate minted: cert-api-stud-api-cour-1778341697336
+2026-05-09 16:48:17 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778341697336/revoke
+2026-05-09 16:48:17 info: Certificate revoked successfully
+2026-05-09 16:48:17 info: POST /api/v1/certificates
+2026-05-09 16:48:17 info: Simulated mint for token 801082
+2026-05-09 16:48:17 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341697499 -> token 801082
+2026-05-09 16:48:17 info: Certificate minted: cert-api-stud-api-cour-1778341697499
+2026-05-09 16:48:17 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778341697499/revoke
+2026-05-09 16:48:17 info: POST /api/v1/certificates
+2026-05-09 16:48:17 info: Simulated mint for token 115025
+2026-05-09 16:48:17 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341697623 -> token 115025
+2026-05-09 16:48:17 info: Certificate minted: cert-api-stud-api-cour-1778341697623
+2026-05-09 16:48:17 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778341697623/revoke
+2026-05-09 16:48:17 info: POST /api/v1/certificates
+2026-05-09 16:48:17 info: Simulated mint for token 861716
+2026-05-09 16:48:17 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341697777 -> token 861716
+2026-05-09 16:48:17 info: Certificate minted: cert-api-stud-api-cour-1778341697777
+2026-05-09 16:48:17 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778341697777/reissue
+2026-05-09 16:48:18 error: Reissue error: 
+Invalid `prisma.certificate.create()` invocation in
+/home/knights/Documents/Drips Miantainer Project/Web3-Student-Lab/backend/src/certificates/CertificateService.ts:70:50
+
+  67 const tokenIdValue = tokenId || Math.floor(Math.random() * 1000000).toString();
+  68 
+  69 // Create certificate record before minting (so we have the ID for metadata)
+→ 70 const certificate = await prisma.certificate.create(
+Unique constraint failed on the fields: (`tokenId`)
+2026-05-09 16:48:18 info: POST /api/v1/certificates
+2026-05-09 16:48:18 info: Simulated mint for token 893944
+2026-05-09 16:48:18 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341698091 -> token 893944
+2026-05-09 16:48:18 info: Certificate minted: cert-api-stud-api-cour-1778341698091
+2026-05-09 16:48:18 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778341698091/reissue
+2026-05-09 16:48:18 error: Reissue error: 
+Invalid `prisma.certificate.create()` invocation in
+/home/knights/Documents/Drips Miantainer Project/Web3-Student-Lab/backend/src/certificates/CertificateService.ts:70:50
+
+  67 const tokenIdValue = tokenId || Math.floor(Math.random() * 1000000).toString();
+  68 
+  69 // Create certificate record before minting (so we have the ID for metadata)
+→ 70 const certificate = await prisma.certificate.create(
+Unique constraint failed on the fields: (`tokenId`)
+2026-05-09 16:48:18 info: POST /api/v1/certificates
+2026-05-09 16:48:18 info: Simulated mint for token 475013
+2026-05-09 16:48:18 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341698322 -> token 475013
+2026-05-09 16:48:18 info: Certificate minted: cert-api-stud-api-cour-1778341698322
+2026-05-09 16:48:18 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778341698322/reissue
+2026-05-09 16:48:18 info: POST /api/v1/certificates
+2026-05-09 16:48:18 info: Simulated mint for token 251989
+2026-05-09 16:48:18 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341698472 -> token 251989
+2026-05-09 16:48:18 info: Certificate minted: cert-api-stud-api-cour-1778341698472
+2026-05-09 16:48:18 info: POST /api/v1/certificates
+2026-05-09 16:48:18 info: Simulated mint for token 198791
+2026-05-09 16:48:18 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341698613 -> token 198791
+2026-05-09 16:48:18 info: Certificate minted: cert-api-stud-api-cour-1778341698613
+2026-05-09 16:48:18 info: GET /api/v1/certificates/analytics
+2026-05-09 16:48:18 info: POST /api/v1/certificates
+2026-05-09 16:48:18 info: Simulated mint for token 829086
+2026-05-09 16:48:18 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341698776 -> token 829086
+2026-05-09 16:48:18 info: Certificate minted: cert-api-stud-api-cour-1778341698776
+2026-05-09 16:48:18 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778341698776/image
+2026-05-09 16:48:18 info: POST /api/v1/certificates
+2026-05-09 16:48:19 info: Simulated mint for token 767097
+2026-05-09 16:48:19 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341698930 -> token 767097
+2026-05-09 16:48:19 info: Certificate minted: cert-api-stud-api-cour-1778341698930
+2026-05-09 16:48:19 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778341698930/qr
+2026-05-09 16:48:19 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 16:48:19 info: GET /api/v1/certificates?limit=5
+2026-05-09 16:48:19 info: GET /api/v1/certificates?limit=200
+2026-05-09 16:48:19 info: GET /api/etc/passwd
+2026-05-09 16:48:19 info: POST /api/v1/certificates
+2026-05-09 16:48:20 info: Simulated mint for token 394981
+2026-05-09 16:48:20 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341699988 -> token 394981
+2026-05-09 16:48:20 info: Certificate minted: cert-api-stud-api-cour-1778341699988
+2026-05-09 16:48:20 info: GET /api/v1/certificates/verify/394981
+2026-05-09 16:48:52 info: RSA Key rotated. New Key ID: f5bd663e-0ce5-4c65-a96e-a8da0871e82b
+2026-05-09 16:48:53 info: Blockchain service initialized in simulation mode
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:53 info: Simulated mint for token 150077
+2026-05-09 16:48:53 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341733485 -> token 150077
+2026-05-09 16:48:53 info: Certificate minted: cert-api-stud-api-cour-1778341733485
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:53 error: Mint certificate error: Student with ID non-existent-student not found
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:53 error: Mint certificate error: Course with ID non-existent-course not found
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:53 info: Simulated mint for token 368123
+2026-05-09 16:48:53 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341733731 -> token 368123
+2026-05-09 16:48:53 info: Certificate minted: cert-api-stud-api-cour-1778341733731
+2026-05-09 16:48:53 info: GET /api/v1/certificates/verify/368123
+2026-05-09 16:48:53 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 16:48:53 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token 118031
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341733900 -> token 118031
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341733900
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token batch-token-2
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734046 -> token batch-token-2
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341734046
+2026-05-09 16:48:54 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:48:54 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:48:54 info: POST /api/v1/certificates/verify/batch
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token 364928
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734201 -> token 364928
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341734201
+2026-05-09 16:48:54 info: GET /api/v1/certificates/364928/metadata
+2026-05-09 16:48:54 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token 287587
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734356 -> token 287587
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341734356
+2026-05-09 16:48:54 info: GET /api/v1/certificates/287587/metadata
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token 228509
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734517 -> token 228509
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341734517
+2026-05-09 16:48:54 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778341734517
+2026-05-09 16:48:54 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token 451253
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734662 -> token 451253
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341734662
+2026-05-09 16:48:54 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 16:48:54 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:54 info: Simulated mint for token 655130
+2026-05-09 16:48:54 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734838 -> token 655130
+2026-05-09 16:48:54 info: Certificate minted: cert-api-stud-api-cour-1778341734838
+2026-05-09 16:48:54 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778341734838/revoke
+2026-05-09 16:48:54 info: Certificate revoked successfully
+2026-05-09 16:48:54 info: POST /api/v1/certificates
+2026-05-09 16:48:55 info: Simulated mint for token 609306
+2026-05-09 16:48:55 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341734993 -> token 609306
+2026-05-09 16:48:55 info: Certificate minted: cert-api-stud-api-cour-1778341734993
+2026-05-09 16:48:55 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778341734993/revoke
+2026-05-09 16:48:55 info: POST /api/v1/certificates
+2026-05-09 16:48:55 info: Simulated mint for token 125761
+2026-05-09 16:48:55 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341735141 -> token 125761
+2026-05-09 16:48:55 info: Certificate minted: cert-api-stud-api-cour-1778341735141
+2026-05-09 16:48:55 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778341735141/revoke
+2026-05-09 16:48:55 info: POST /api/v1/certificates
+2026-05-09 16:48:55 info: Simulated mint for token 390975
+2026-05-09 16:48:55 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341735287 -> token 390975
+2026-05-09 16:48:55 info: Certificate minted: cert-api-stud-api-cour-1778341735287
+2026-05-09 16:48:55 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778341735287/reissue
+2026-05-09 16:48:55 error: Reissue error: 
+Invalid `prisma.certificate.create()` invocation in
+/home/knights/Documents/Drips Miantainer Project/Web3-Student-Lab/backend/src/certificates/CertificateService.ts:70:50
+
+  67 const tokenIdValue = tokenId || Math.floor(Math.random() * 1000000).toString();
+  68 
+  69 // Create certificate record before minting (so we have the ID for metadata)
+→ 70 const certificate = await prisma.certificate.create(
+Unique constraint failed on the fields: (`tokenId`)
+2026-05-09 16:48:55 info: POST /api/v1/certificates
+2026-05-09 16:48:55 info: Simulated mint for token 121653
+2026-05-09 16:48:55 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341735675 -> token 121653
+2026-05-09 16:48:55 info: Certificate minted: cert-api-stud-api-cour-1778341735675
+2026-05-09 16:48:55 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778341735675/reissue
+2026-05-09 16:48:55 error: Reissue error: 
+Invalid `prisma.certificate.create()` invocation in
+/home/knights/Documents/Drips Miantainer Project/Web3-Student-Lab/backend/src/certificates/CertificateService.ts:70:50
+
+  67 const tokenIdValue = tokenId || Math.floor(Math.random() * 1000000).toString();
+  68 
+  69 // Create certificate record before minting (so we have the ID for metadata)
+→ 70 const certificate = await prisma.certificate.create(
+Unique constraint failed on the fields: (`tokenId`)
+2026-05-09 16:48:55 info: POST /api/v1/certificates
+2026-05-09 16:48:55 info: Simulated mint for token 770734
+2026-05-09 16:48:55 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341735851 -> token 770734
+2026-05-09 16:48:55 info: Certificate minted: cert-api-stud-api-cour-1778341735851
+2026-05-09 16:48:55 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778341735851/reissue
+2026-05-09 16:48:55 info: POST /api/v1/certificates
+2026-05-09 16:48:56 info: Simulated mint for token 275936
+2026-05-09 16:48:56 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341736004 -> token 275936
+2026-05-09 16:48:56 info: Certificate minted: cert-api-stud-api-cour-1778341736004
+2026-05-09 16:48:56 info: POST /api/v1/certificates
+2026-05-09 16:48:56 info: Simulated mint for token 662506
+2026-05-09 16:48:56 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341736139 -> token 662506
+2026-05-09 16:48:56 info: Certificate minted: cert-api-stud-api-cour-1778341736139
+2026-05-09 16:48:56 info: GET /api/v1/certificates/analytics
+2026-05-09 16:48:56 info: POST /api/v1/certificates
+2026-05-09 16:48:56 info: Simulated mint for token 46908
+2026-05-09 16:48:56 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341736292 -> token 46908
+2026-05-09 16:48:56 info: Certificate minted: cert-api-stud-api-cour-1778341736292
+2026-05-09 16:48:56 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778341736292/image
+2026-05-09 16:48:56 info: POST /api/v1/certificates
+2026-05-09 16:48:56 info: Simulated mint for token 261060
+2026-05-09 16:48:56 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341736434 -> token 261060
+2026-05-09 16:48:56 info: Certificate minted: cert-api-stud-api-cour-1778341736434
+2026-05-09 16:48:56 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778341736434/qr
+2026-05-09 16:48:57 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 16:48:57 info: GET /api/v1/certificates?limit=5
+2026-05-09 16:48:57 info: GET /api/v1/certificates?limit=200
+2026-05-09 16:48:57 info: GET /api/etc/passwd
+2026-05-09 16:48:57 info: POST /api/v1/certificates
+2026-05-09 16:48:57 info: Simulated mint for token 274127
+2026-05-09 16:48:57 info: Certificate minted on-chain: cert-api-stud-api-cour-1778341737119 -> token 274127
+2026-05-09 16:48:57 info: Certificate minted: cert-api-stud-api-cour-1778341737119
+2026-05-09 16:48:57 info: GET /api/v1/certificates/verify/274127
+2026-05-09 17:09:45 info: RSA Key rotated. New Key ID: 67a919d5-e15b-401b-a6cc-2ecec0346d3e
+2026-05-09 17:09:46 info: Blockchain service initialized in simulation mode
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 info: Simulated mint for token 588790
+2026-05-09 17:09:47 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342987153 -> token 588790
+2026-05-09 17:09:47 info: Certificate minted: cert-api-stud-api-cour-1778342987153
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 error: Mint certificate error: Student with ID non-existent-student not found
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 error: Mint certificate error: Course with ID non-existent-course not found
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 info: Simulated mint for token 373525
+2026-05-09 17:09:47 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342987432 -> token 373525
+2026-05-09 17:09:47 info: Certificate minted: cert-api-stud-api-cour-1778342987432
+2026-05-09 17:09:47 info: GET /api/v1/certificates/verify/373525
+2026-05-09 17:09:47 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 info: Simulated mint for token 597889
+2026-05-09 17:09:47 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342987617 -> token 597889
+2026-05-09 17:09:47 info: Certificate minted: cert-api-stud-api-cour-1778342987617
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:47 info: Simulated mint for token batch-token-2
+2026-05-09 17:09:47 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342987763 -> token batch-token-2
+2026-05-09 17:09:47 info: Certificate minted: cert-api-stud-api-cour-1778342987763
+2026-05-09 17:09:47 info: POST /api/v1/certificates/verify/batch
+2026-05-09 17:09:47 info: POST /api/v1/certificates/verify/batch
+2026-05-09 17:09:47 info: POST /api/v1/certificates/verify/batch
+2026-05-09 17:09:47 info: POST /api/v1/certificates
+2026-05-09 17:09:48 info: Simulated mint for token 772407
+2026-05-09 17:09:48 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342987943 -> token 772407
+2026-05-09 17:09:48 info: Certificate minted: cert-api-stud-api-cour-1778342987943
+2026-05-09 17:09:48 info: GET /api/v1/certificates/772407/metadata
+2026-05-09 17:09:48 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 17:09:48 info: POST /api/v1/certificates
+2026-05-09 17:09:48 info: Simulated mint for token 720920
+2026-05-09 17:09:48 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342988102 -> token 720920
+2026-05-09 17:09:48 info: Certificate minted: cert-api-stud-api-cour-1778342988102
+2026-05-09 17:09:48 info: GET /api/v1/certificates/720920/metadata
+2026-05-09 17:09:48 info: POST /api/v1/certificates
+2026-05-09 17:09:48 info: Simulated mint for token 196595
+2026-05-09 17:09:48 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342988257 -> token 196595
+2026-05-09 17:09:48 info: Certificate minted: cert-api-stud-api-cour-1778342988257
+2026-05-09 17:09:48 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778342988257
+2026-05-09 17:09:48 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 17:09:48 info: POST /api/v1/certificates
+2026-05-09 17:09:48 info: Simulated mint for token 980272
+2026-05-09 17:09:48 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342988424 -> token 980272
+2026-05-09 17:09:48 info: Certificate minted: cert-api-stud-api-cour-1778342988424
+2026-05-09 17:09:48 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 17:09:48 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 17:09:48 info: POST /api/v1/certificates
+2026-05-09 17:09:48 info: Simulated mint for token 70122
+2026-05-09 17:09:48 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342988594 -> token 70122
+2026-05-09 17:09:48 info: Certificate minted: cert-api-stud-api-cour-1778342988594
+2026-05-09 17:09:48 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778342988594/revoke
+2026-05-09 17:09:48 info: Certificate revoked successfully
+2026-05-09 17:09:48 info: POST /api/v1/certificates
+2026-05-09 17:09:48 info: Simulated mint for token 430786
+2026-05-09 17:09:48 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342988748 -> token 430786
+2026-05-09 17:09:48 info: Certificate minted: cert-api-stud-api-cour-1778342988748
+2026-05-09 17:09:48 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778342988748/revoke
+2026-05-09 17:09:48 info: POST /api/v1/certificates
+2026-05-09 17:09:49 info: Simulated mint for token 142159
+2026-05-09 17:09:49 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342988894 -> token 142159
+2026-05-09 17:09:49 info: Certificate minted: cert-api-stud-api-cour-1778342988894
+2026-05-09 17:09:49 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778342988894/revoke
+2026-05-09 17:09:49 info: POST /api/v1/certificates
+2026-05-09 17:09:49 info: Simulated mint for token 823045
+2026-05-09 17:09:49 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342989041 -> token 823045
+2026-05-09 17:09:49 info: Certificate minted: cert-api-stud-api-cour-1778342989041
+2026-05-09 17:09:49 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778342989041/reissue
+2026-05-09 17:09:49 info: Simulated mint for token 866238
+2026-05-09 17:09:49 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342989324 -> token 866238
+2026-05-09 17:09:49 info: Certificate reissued: cert-api-stud-api-cour-1778342989041 -> cert-api-stud-api-cour-1778342989324
+2026-05-09 17:09:49 info: POST /api/v1/certificates
+2026-05-09 17:09:49 info: Simulated mint for token 560419
+2026-05-09 17:09:49 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342989471 -> token 560419
+2026-05-09 17:09:49 info: Certificate minted: cert-api-stud-api-cour-1778342989471
+2026-05-09 17:09:49 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778342989471/reissue
+2026-05-09 17:09:49 info: Simulated mint for token 46628
+2026-05-09 17:09:49 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342989606 -> token 46628
+2026-05-09 17:09:49 info: Certificate reissued: cert-api-stud-api-cour-1778342989471 -> cert-api-stud-api-cour-1778342989606
+2026-05-09 17:09:49 info: POST /api/v1/certificates
+2026-05-09 17:09:49 info: Simulated mint for token 407880
+2026-05-09 17:09:49 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342989764 -> token 407880
+2026-05-09 17:09:49 info: Certificate minted: cert-api-stud-api-cour-1778342989764
+2026-05-09 17:09:49 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778342989764/reissue
+2026-05-09 17:09:49 info: POST /api/v1/certificates
+2026-05-09 17:09:50 info: Simulated mint for token 902824
+2026-05-09 17:09:50 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342989938 -> token 902824
+2026-05-09 17:09:50 info: Certificate minted: cert-api-stud-api-cour-1778342989938
+2026-05-09 17:09:50 info: POST /api/v1/certificates
+2026-05-09 17:09:50 info: Simulated mint for token 237853
+2026-05-09 17:09:50 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342990083 -> token 237853
+2026-05-09 17:09:50 info: Certificate minted: cert-api-stud-api-cour-1778342990083
+2026-05-09 17:09:50 info: GET /api/v1/certificates/analytics
+2026-05-09 17:09:50 info: POST /api/v1/certificates
+2026-05-09 17:09:50 info: Simulated mint for token 204020
+2026-05-09 17:09:50 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342990283 -> token 204020
+2026-05-09 17:09:50 info: Certificate minted: cert-api-stud-api-cour-1778342990283
+2026-05-09 17:09:50 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778342990283/image
+2026-05-09 17:09:50 info: POST /api/v1/certificates
+2026-05-09 17:09:50 info: Simulated mint for token 143382
+2026-05-09 17:09:50 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342990436 -> token 143382
+2026-05-09 17:09:50 info: Certificate minted: cert-api-stud-api-cour-1778342990436
+2026-05-09 17:09:50 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778342990436/qr
+2026-05-09 17:09:51 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 17:09:51 info: GET /api/v1/certificates?limit=5
+2026-05-09 17:09:51 info: GET /api/v1/certificates?limit=200
+2026-05-09 17:09:51 info: GET /api/etc/passwd
+2026-05-09 17:09:51 info: POST /api/v1/certificates
+2026-05-09 17:09:51 info: Simulated mint for token 64288
+2026-05-09 17:09:51 info: Certificate minted on-chain: cert-api-stud-api-cour-1778342991148 -> token 64288
+2026-05-09 17:09:51 info: Certificate minted: cert-api-stud-api-cour-1778342991148
+2026-05-09 17:09:51 info: GET /api/v1/certificates/verify/64288
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343032976 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033350 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033380 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033440 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033485 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033550 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033602 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033626 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033677 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033699 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033727 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033754 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-t-1778343033786 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-i-1778343033917 -> token 12345
+2026-05-09 17:10:33 info: Certificate minted on-chain: cert-student--course-i-1778343033949 -> token 12345
+2026-05-09 17:10:34 info: Certificate minted on-chain: cert-student--course-i-1778343033984 -> token 12345
+2026-05-09 17:10:32 info: RSA Key rotated. New Key ID: 8f54d2f5-1799-4db2-9e41-9f29f8d14853
+2026-05-09 17:10:33 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:32 info: RSA Key rotated. New Key ID: 65acd346-0f73-4e12-aa36-e53d93d881bb
+2026-05-09 17:10:32 info: RSA Key rotated. New Key ID: 56d80024-b1a0-4233-8a76-033f25ea9e0c
+2026-05-09 17:10:33 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:32 info: RSA Key rotated. New Key ID: 88c65511-4989-4b8f-83ce-041d3882c4a9
+2026-05-09 17:10:34 info: ✅ Environment variables validated successfully
+2026-05-09 17:10:33 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:34 info: 🌍 Environment: development
+2026-05-09 17:10:34 info: 🔌 Port: 8080
+2026-05-09 17:10:34 info: 🌐 Stellar Network: testnet
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "short"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: JWT_SECRET
+Description: Secret key for JWT token signing and verification
+Current value: "your-secret-key-change-in-production"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Invalid value for environment variable: DATABASE_URL
+Description: PostgreSQL connection string for database connectivity
+Current value: "invalid-url-format"
+Please check .env.example for the correct format.
+
+Missing required environment variable: REDIS_URL
+Description: Redis connection URL for background jobs and WebSockets
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 error: ❌ Environment Configuration Error: Environment validation failed:
+
+Missing required environment variable: STELLAR_ISSUER_SECRET_KEY
+Description: Stellar secret key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Missing required environment variable: STELLAR_ISSUER_PUBLIC_KEY
+Description: Stellar public key for certificate issuance (production only)
+Please check your .env file and .env.example for guidance.
+
+Please copy .env.example to .env and fill in the required values.
+2026-05-09 17:10:34 info: ✅ Environment variables validated successfully
+2026-05-09 17:10:34 info: 🌍 Environment: production
+2026-05-09 17:10:34 info: 🔌 Port: 8080
+2026-05-09 17:10:34 info: 🌐 Stellar Network: testnet
+2026-05-09 17:10:34 info: ✅ Environment variables validated successfully
+2026-05-09 17:10:34 info: 🌍 Environment: development
+2026-05-09 17:10:34 info: 🔌 Port: 8080
+2026-05-09 17:10:34 info: 🌐 Stellar Network: testnet
+2026-05-09 17:10:34 info: ✅ Environment variables validated successfully
+2026-05-09 17:10:34 info: 🌍 Environment: development
+2026-05-09 17:10:34 info: 🔌 Port: 3000
+2026-05-09 17:10:34 info: 🌐 Stellar Network: mainnet
+2026-05-09 17:10:33 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:35 info: Redis connected successfully
+2026-05-09 17:10:33 info: RSA Key rotated. New Key ID: 90214fba-eab2-4da7-ba92-5dcce830016f
+2026-05-09 17:10:34 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:35 info: POST /api/v1/students
+2026-05-09 17:10:35 info: GET /api/v1/students/cmoyjizud0000ecmhcvs8xis4
+2026-05-09 17:10:35 info: GET /api/v1/students
+2026-05-09 17:10:35 info: POST /api/v1/students
+2026-05-09 17:10:35 info: PUT /api/v1/students/cmoyjizw60001ecmhpwhzkjxt
+2026-05-09 17:10:33 info: RSA Key rotated. New Key ID: 5faac1f7-6969-47f1-b8c7-8387a617acca
+2026-05-09 17:10:34 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 info: POST /api/v1/students
+2026-05-09 17:10:35 info: DELETE /api/v1/students/cmoyjj02i0002ecmh4hbcqsle
+2026-05-09 17:10:35 info: GET /api/v1/students/cmoyjj02i0002ecmh4hbcqsle
+2026-05-09 17:10:35 info: Simulated mint for token 997045
+2026-05-09 17:10:35 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343035356 -> token 997045
+2026-05-09 17:10:35 info: Certificate minted: cert-api-stud-api-cour-1778343035356
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 error: Mint certificate error: Student with ID non-existent-student not found
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 error: Mint certificate error: Course with ID non-existent-course not found
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 info: Simulated mint for token 345420
+2026-05-09 17:10:35 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343035588 -> token 345420
+2026-05-09 17:10:35 info: Certificate minted: cert-api-stud-api-cour-1778343035588
+2026-05-09 17:10:35 info: GET /api/v1/certificates/verify/345420
+2026-05-09 17:10:35 info: RSA Key rotated. New Key ID: fde19306-5886-4362-b1d7-b88bfd241208
+2026-05-09 17:10:35 info: GET /api/v1/certificates/verify/nonexistenttoken123
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 info: Blockchain service initialized in simulation mode
+2026-05-09 17:10:35 info: GET /health
+2026-05-09 17:10:35 info: GET /health
+2026-05-09 17:10:35 info: GET /health
+2026-05-09 17:10:35 info: GET /health
+2026-05-09 17:10:35 info: GET /non-existent-route
+2026-05-09 17:10:35 info: Simulated mint for token 803126
+2026-05-09 17:10:35 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343035749 -> token 803126
+2026-05-09 17:10:35 info: Certificate minted: cert-api-stud-api-cour-1778343035749
+2026-05-09 17:10:35 info: POST /api/v1/certificates
+2026-05-09 17:10:35 info: Simulated mint for token batch-token-2
+2026-05-09 17:10:35 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343035873 -> token batch-token-2
+2026-05-09 17:10:35 info: Certificate minted: cert-api-stud-api-cour-1778343035873
+2026-05-09 17:10:35 info: POST /api/v1/certificates/verify/batch
+2026-05-09 17:10:36 info: POST /api/v1/certificates/verify/batch
+2026-05-09 17:10:36 info: POST /api/v1/certificates/verify/batch
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:36 info: Simulated mint for token 146230
+2026-05-09 17:10:36 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036021 -> token 146230
+2026-05-09 17:10:36 info: Certificate minted: cert-api-stud-api-cour-1778343036021
+2026-05-09 17:10:36 info: GET /api/v1/certificates/146230/metadata
+2026-05-09 17:10:36 info: GET /api/v1/certificates/nonexistent/metadata
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:36 info: Simulated mint for token 352842
+2026-05-09 17:10:36 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036155 -> token 352842
+2026-05-09 17:10:36 info: Certificate minted: cert-api-stud-api-cour-1778343036155
+2026-05-09 17:10:36 info: GET /api/v1/certificates/352842/metadata
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:36 info: Simulated mint for token 925108
+2026-05-09 17:10:36 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036317 -> token 925108
+2026-05-09 17:10:36 info: Certificate minted: cert-api-stud-api-cour-1778343036317
+2026-05-09 17:10:36 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778343036317
+2026-05-09 17:10:36 info: GET /api/v1/certificates/nonexistent-id
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:36 info: Simulated mint for token 126044
+2026-05-09 17:10:36 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036471 -> token 126044
+2026-05-09 17:10:36 info: Certificate minted: cert-api-stud-api-cour-1778343036471
+2026-05-09 17:10:36 info: GET /api/v1/certificates/student/api-student-123
+2026-05-09 17:10:36 info: GET /api/v1/certificates/student/nonexistent-student
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:36 info: Simulated mint for token 646654
+2026-05-09 17:10:36 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036639 -> token 646654
+2026-05-09 17:10:36 info: Certificate minted: cert-api-stud-api-cour-1778343036639
+2026-05-09 17:10:36 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778343036639/revoke
+2026-05-09 17:10:36 info: Certificate revoked successfully
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:36 info: Simulated mint for token 4651
+2026-05-09 17:10:36 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036797 -> token 4651
+2026-05-09 17:10:36 info: Certificate minted: cert-api-stud-api-cour-1778343036797
+2026-05-09 17:10:36 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778343036797/revoke
+2026-05-09 17:10:36 info: POST /api/v1/certificates
+2026-05-09 17:10:37 info: Simulated mint for token 118778
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343036924 -> token 118778
+2026-05-09 17:10:37 info: Certificate minted: cert-api-stud-api-cour-1778343036924
+2026-05-09 17:10:37 info: PUT /api/v1/certificates/cert-api-stud-api-cour-1778343036924/revoke
+2026-05-09 17:10:37 info: POST /api/v1/certificates
+2026-05-09 17:10:37 info: Simulated mint for token 384418
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037061 -> token 384418
+2026-05-09 17:10:37 info: Certificate minted: cert-api-stud-api-cour-1778343037061
+2026-05-09 17:10:37 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778343037061/reissue
+2026-05-09 17:10:37 info: Simulated mint for token 987681
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037208 -> token 987681
+2026-05-09 17:10:37 info: Certificate reissued: cert-api-stud-api-cour-1778343037061 -> cert-api-stud-api-cour-1778343037208
+2026-05-09 17:10:37 info: POST /api/v1/certificates
+2026-05-09 17:10:37 info: Simulated mint for token 887820
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037374 -> token 887820
+2026-05-09 17:10:37 info: Certificate minted: cert-api-stud-api-cour-1778343037374
+2026-05-09 17:10:37 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778343037374/reissue
+2026-05-09 17:10:37 info: Simulated mint for token 194267
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037525 -> token 194267
+2026-05-09 17:10:37 info: Certificate reissued: cert-api-stud-api-cour-1778343037374 -> cert-api-stud-api-cour-1778343037525
+2026-05-09 17:10:37 info: POST /api/v1/certificates
+2026-05-09 17:10:37 info: Simulated mint for token 123293
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037671 -> token 123293
+2026-05-09 17:10:37 info: Certificate minted: cert-api-stud-api-cour-1778343037671
+2026-05-09 17:10:37 info: POST /api/v1/certificates/cert-api-stud-api-cour-1778343037671/reissue
+2026-05-09 17:10:37 info: POST /api/v1/certificates
+2026-05-09 17:10:37 info: Simulated mint for token 836423
+2026-05-09 17:10:37 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037801 -> token 836423
+2026-05-09 17:10:37 info: Certificate minted: cert-api-stud-api-cour-1778343037801
+2026-05-09 17:10:37 info: POST /api/v1/certificates
+2026-05-09 17:10:38 info: Simulated mint for token 463535
+2026-05-09 17:10:38 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343037937 -> token 463535
+2026-05-09 17:10:38 info: Certificate minted: cert-api-stud-api-cour-1778343037937
+2026-05-09 17:10:38 info: GET /api/v1/certificates/analytics
+2026-05-09 17:10:38 info: POST /api/v1/certificates
+2026-05-09 17:10:38 info: Simulated mint for token 699044
+2026-05-09 17:10:38 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343038096 -> token 699044
+2026-05-09 17:10:38 info: Certificate minted: cert-api-stud-api-cour-1778343038096
+2026-05-09 17:10:38 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778343038096/image
+2026-05-09 17:10:38 info: POST /api/v1/certificates
+2026-05-09 17:10:38 info: Simulated mint for token 914898
+2026-05-09 17:10:38 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343038238 -> token 914898
+2026-05-09 17:10:38 info: Certificate minted: cert-api-stud-api-cour-1778343038238
+2026-05-09 17:10:38 info: GET /api/v1/certificates/cert-api-stud-api-cour-1778343038238/qr
+2026-05-09 17:10:39 info: GET /api/v1/certificates?limit=10&offset=0
+2026-05-09 17:10:39 info: GET /api/v1/certificates?limit=5
+2026-05-09 17:10:39 info: GET /api/v1/certificates?limit=200
+2026-05-09 17:10:39 info: GET /api/etc/passwd
+2026-05-09 17:10:39 info: POST /api/v1/certificates
+2026-05-09 17:10:39 info: Simulated mint for token 977597
+2026-05-09 17:10:39 info: Certificate minted on-chain: cert-api-stud-api-cour-1778343039252 -> token 977597
+2026-05-09 17:10:39 info: Certificate minted: cert-api-stud-api-cour-1778343039252
+2026-05-09 17:10:39 info: GET /api/v1/certificates/verify/977597

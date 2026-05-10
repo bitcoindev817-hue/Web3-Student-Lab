@@ -14,6 +14,7 @@ datasource db {
 
 model Student {
   id           String   @id @default(cuid())
+  workspaceId  String   @default("default")
   email        String   @unique
   did          String?  @unique
   password     String
@@ -37,6 +38,7 @@ model Student {
 
 model Course {
   id          String   @id @default(cuid())
+  workspaceId String   @default("default")
   title       String
   description String?
   instructor  String
@@ -58,6 +60,7 @@ model Course {
 
 model Certificate {
   id               String   @id @default(cuid())
+  workspaceId      String   @default("default")
   studentId        String
   courseId         String
   tokenId          String   @unique
@@ -89,6 +92,7 @@ model Certificate {
 
 model Enrollment {
   id         String   @id @default(cuid())
+  workspaceId String   @default("default")
   studentId  String
   courseId   String
   enrolledAt DateTime @default(now())
@@ -103,6 +107,7 @@ model Enrollment {
 
 model Feedback {
   id          String   @id @default(cuid())
+  workspaceId String   @default("default")
   studentId   String
   courseId    String
   rating      Int      // Rating from 1 to 5
@@ -119,6 +124,7 @@ model Feedback {
 
 model LearningProgress {
   id               String   @id @default(cuid())
+  workspaceId      String   @default("default")
   studentId        String
   courseId         String
   completedLessons Json // Array of lesson ids for PostgreSQL
@@ -139,6 +145,7 @@ model LearningProgress {
 
 model AuditLog {
   id        String   @id @default(cuid())
+  workspaceId String   @default("default")
   userId    String?
   userEmail String?
   action    String
@@ -180,6 +187,7 @@ model AnalyticsData {
 
 model Canvas {
   id          String   @id @default(cuid())
+  workspaceId String   @default("default")
   roomId      String   @unique
   studentId   String
   title       String

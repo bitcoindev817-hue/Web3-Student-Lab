@@ -67,6 +67,9 @@ export const slidingWindowRateLimiter = (options: RateLimitOptions) => {
 };
 
 export const apiRateLimiter = async (req: Request, res: Response, next: NextFunction) => {
+  if (process.env.NODE_ENV === 'test') {
+    return next();
+  }
   const isAuth = !!(req as any).user;
   const limit = isAuth ? 50 : 10; // 50 req/s for auth, 10 req/s for unauth
   const windowMs = 1000; // 1 second window

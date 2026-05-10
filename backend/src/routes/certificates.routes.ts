@@ -29,6 +29,9 @@ router.post('/verify/batch', certificateController.batchVerify.bind(certificateC
 // NFT metadata endpoint (no auth, required for NFT platforms)
 router.get('/:tokenId/metadata', certificateController.getMetadata.bind(certificateController));
 
+// Analytics (admin)
+router.get('/analytics', certificateController.getAnalytics.bind(certificateController));
+
 // Get full certificate details
 router.get('/:certificateId', certificateController.getCertificate.bind(certificateController));
 
@@ -56,8 +59,7 @@ router.post(
 // List/Filter certificates
 router.get('/', certificateController.listCertificates.bind(certificateController));
 
-// Analytics (admin)
-router.get('/analytics', certificateController.getAnalytics.bind(certificateController));
+
 
 // Certificate image generation
 router.get('/:id/image', certificateController.getCertificateImage.bind(certificateController));

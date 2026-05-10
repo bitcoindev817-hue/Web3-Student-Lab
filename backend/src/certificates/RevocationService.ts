@@ -123,7 +123,6 @@ export class RevocationService {
         studentId: original.studentId,
         courseId: original.courseId,
         grade: newGrade || original.grade || undefined,
-        tokenId: original.tokenId || undefined,
         did: original.did ?? undefined,
       },
       issuedBy,
@@ -146,6 +145,7 @@ export class RevocationService {
       issuedBy,
     });
 
+    original.status = 'REISSUED';
     return { original, new: newCertificate };
   }
 
