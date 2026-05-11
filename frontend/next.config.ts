@@ -1,7 +1,7 @@
 import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-  outputFileTracingRoot: './',
+  outputFileTracingRoot: require('path').resolve(__dirname, '.'),
   reactCompiler: true,
   // Disable Turbopack and use Webpack (required for custom webpack config)
   // turbopack: {}, // Uncomment this line if you want to use Turbopack instead
