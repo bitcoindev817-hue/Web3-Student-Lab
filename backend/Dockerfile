@@ -15,11 +15,8 @@ RUN pnpm install
 # Copy all files including prisma directory
 COPY . .
 
-# Debug: list files to verify prisma directory exists
-RUN ls -la && ls -la prisma/
-
-# Generate Prisma client with relative schema path
-RUN npx prisma generate --schema=prisma/schema.prisma
+# Generate Prisma client with workspace root path
+RUN npx prisma generate --schema=backend/prisma/schema.prisma
 
 # Build TypeScript to JavaScript
 RUN npm run build
@@ -33,8 +30,8 @@ WORKDIR /app
 COPY --from=builder /app/package*.json ./
 COPY --from=builder /app/dist ./dist
 COPY --from=builder /app/node_modules ./node_modules
-COPY --from=builder /app/prisma ./prisma
-COPY --from=builder /app/src/generated ./src/generated
+COPY --from=builder /app/backend/prisma ./prisma
+COPY --from=builder /app/backend/src/generated ./src/generated
 
 # Set environment variables
 ENV NODE_ENV=production
