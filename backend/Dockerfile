@@ -3,11 +3,14 @@ FROM node:20-alpine AS builder
 
 WORKDIR /app
 
+# Install pnpm
+RUN npm install -g pnpm
+
 # Install dependencies first (for faster caching)
 COPY package*.json ./
 
-# Clean npm cache and install dependencies
-RUN npm cache clean --force && npm ci
+# Install dependencies with pnpm
+RUN pnpm install
 
 # Copy source code (includes prisma directory)
 COPY . .
