@@ -21,7 +21,8 @@ COPY . .
 # Generate Prisma client with workspace root path
 RUN npx prisma generate --schema=backend/prisma/schema.prisma
 
-# Build TypeScript to JavaScript
+# Change to backend directory and build
+WORKDIR /app/backend
 RUN npm run build
 
 # Stage 2: Production stage
@@ -29,10 +30,10 @@ FROM node:20-alpine
 
 WORKDIR /app
 
-# Copy production dependencies and built files
-COPY --from=builder /app/package*.json ./
-COPY --from=builder /app/dist ./dist
-COPY --from=builder /app/node_modules ./node_modules
+# Copy production dependencies and built files from backend
+COPY --from=builder /app/backend/package*.json ./
+COPY --from=builder /app/backend/dist ./dist
+COPY --from=builder /app/backend/node_modules ./node_modules
 COPY --from=builder /app/backend/prisma ./prisma
 COPY --from=builder /app/backend/src/generated ./src/generated
 
